@@ -46,6 +46,7 @@ object WebView {
             onUnavailable()
         }
     }
+
 }
 
 @SuppressLint("ViewConstructor")
