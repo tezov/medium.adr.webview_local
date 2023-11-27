@@ -1,0 +1,55 @@
+#block {
+    width: 100%;
+    text-align: center;
+}
+#block img {
+    display: inline-block;
+    max-width: 50%;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+}
+#block h2 {
+    font-size: 24px;
+    color:black;
+}
+#block h3 {
+    font-size: 18px;
+    color:black;
+    text-align: left
+}
+#block p {
+    margin-top: -8px;
+    font-size: 16px;
+    color:black;
+    text-align: left
+}
+#block ul {
+    margin-top: -6px;
+    margin-left: -12px;
+    color:black;
+    text-align: left
+}
+#button {
+    outline: 0;
+    line-height: 1.5;
+    background-color: transparent;
+    border: 2px solid transparent;
+    padding: 6px 6px;
+    border-radius: .5rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    border-color: #0d6efd;
+}
+
+#button a {
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: #0d6efd;
+}
+
+#block #button {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+

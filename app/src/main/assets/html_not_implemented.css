@@ -1,0 +1,27 @@
+#block {
+    width: 100%;
+    text-align: center;
+}
+#block img {
+    display: inline-block;
+    max-width: 50%;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+}
+#block h2 {
+    font-size: 24px;
+    color:black;
+}
+#block h3 {
+    font-size: 18px;
+    color:black;
+}
+#block p {
+    margin-top: -8px;
+    font-size: 16px;
+    color:black;
+    text-align: left
+}
+
+
